@@ -18,4 +18,4 @@
 - **OpenAI API** for working with GPT-based models.
 
 ## 🎯 **Objective**
-- To have ** tutorials and hands-on implementations** for learning **Generative AI & LLMs**.
+- To have **tutorials and hands-on implementations** for learning **Generative AI & LLMs**.
