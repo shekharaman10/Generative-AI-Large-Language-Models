@@ -1,7 +1,7 @@
 # 🚀 **Generative AI & Large Language Models**
 
 ## 🔍 **Overview**
-- This repository contains tutorials and resources from the **Generative AI with LLMs** course.
+- This repository contains tutorials and resources and Projects of **Generative AI** focusing on **large language models (LLMs)**.
 - Focuses on understanding and implementing **large language models (LLMs)** for various AI applications.
 
 ## 📚 **Topics Covered**
